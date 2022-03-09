@@ -9,6 +9,7 @@
   "author": "Alicia Marianne Gonçalves de Paula",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^9.5.1"
+    "cypress": "^9.5.1",
+    "dotenv": "^16.0.0"
   }
 }
